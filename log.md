@@ -18,7 +18,7 @@
 ### Day 1: October 13 2022 
 **Today's Progress**: Forked the 100 days kallaway log, made a twitter account, made a github account, and added Freecodecamp\
 **Thoughts**: will try the code camp tomorrow
-**Link(s) to work**: pending. github.com. twitter.com.
+**Link(s) to work**: pending. github.com. twitter.com. https://twitter.com/elie_crystal/status/1580585090769223682
 
 ### Day 2: 
 ##### (delete me or comment me out)
