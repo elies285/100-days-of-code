@@ -16,9 +16,13 @@
 ##################################################################
 
 ### Day 1: October 13 2022 
-**Today's Progress**: Forked the 100 days kallaway log, made a twitter account, made a github account, and added Freecodecamp\
-**Thoughts**: will try the code camp tomorrow
-**Link(s) to work**: pending. github.com. twitter.com. https://twitter.com/elie_crystal/status/1580585090769223682
+**Today's Progress**: Forked the 100 days kallaway log, made a twitter account, made a github account, and added Freecodecamp
+
+**Thoughts**: started free code camp from very begninnig, HTML
+
+**Link(s) to work**: pending. github.com. twitter.com. 
+https://twitter.com/elie_crystal/status/1580585090769223682. 
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-23
 
 ### Day 2: 
 ##### (delete me or comment me out)
