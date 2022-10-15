@@ -24,22 +24,27 @@
 https://twitter.com/elie_crystal/status/1580585090769223682. 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-23
 
-### Day 2: October 14
+### Day 2: October 14 2022
 ##### (delete me or comment me out)
 **Today's Progress**: 1 hour of free code camp HTML 
 **Thoughts**: noticing the HTML on the web
 **Link(s) to work**: 
 https://twitter.com/elie_crystal/status/
-https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-45
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-35
 
 
-### Day 3: 
+### Day 3: Oct 15 2022
 ##### (delete me or comment me out)
 **Today's Progress**: 
-**Thoughts**:
+created my own repository invite-(private)
+created a HTML template for a business card prodcution company
+
+**Thoughts**: none
+
 **Link(s) to work**: 
 https://twitter.com/elie_crystal/status/
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-45
+https://github.com/elies285/invite-
 
 ### Day 4: 
 ##### (delete me or comment me out)
